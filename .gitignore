@@ -1,0 +1,22 @@
+# Goland
+.idea
+**/output
+
+# logs
+**/*logs
+
+#
+**/*.exe
+**/*.dtmp
+
+# .dat
+**/*.dat
+
+# macos system files
+**/.DS_Store
+
+# c
+a.out
+
+# vscode
+.vscode
